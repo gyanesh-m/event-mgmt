@@ -6,3 +6,8 @@ To check the APIs,follow:
 The user APIs created are as follows:
 <br>
 <img src="https://raw.githubusercontent.com/gyanesh-m/event-mgmt/master/utils/users.png" width=800 height=600>
+
+# ToDo
+* Admin Api
+* Mailing capability
+* Refactor
